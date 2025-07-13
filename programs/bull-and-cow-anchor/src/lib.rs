@@ -6,7 +6,7 @@ pub mod state;
 
 use instructions::*;
 
-declare_id!("CQZ9xwTgk6nrK2frhgn43J4sXC7xYSuTSMphFbdLer9r");
+declare_id!("D9p8gbLMF4FaZH8ydtNjT2UZeiPBa6Yiv3Jz3AmEPxnS");
 
 #[program]
 pub mod bull_and_cow_anchor {
