@@ -6,7 +6,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-bull_and_cow_anchor = "HHRf5RHpg1xi69rYjh6cdVeUTPYkdZxZGKGhhU2gBrSW"
+bull_and_cow_anchor = "CQZ9xwTgk6nrK2frhgn43J4sXC7xYSuTSMphFbdLer9r"
 
 [registry]
 url = "https://api.apr.dev"
